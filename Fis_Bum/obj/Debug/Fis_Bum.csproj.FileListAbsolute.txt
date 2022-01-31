@@ -1,0 +1,8 @@
+C:\Users\HFGF\Source\Repos\Fis-Bum\Fis_Bum\bin\Debug\Fis_Bum.exe.config
+C:\Users\HFGF\Source\Repos\Fis-Bum\Fis_Bum\bin\Debug\Fis_Bum.exe
+C:\Users\HFGF\Source\Repos\Fis-Bum\Fis_Bum\bin\Debug\Fis_Bum.pdb
+C:\Users\HFGF\Source\Repos\Fis-Bum\Fis_Bum\obj\Debug\Fis_Bum.csproj.AssemblyReference.cache
+C:\Users\HFGF\Source\Repos\Fis-Bum\Fis_Bum\obj\Debug\Fis_Bum.csproj.SuggestedBindingRedirects.cache
+C:\Users\HFGF\Source\Repos\Fis-Bum\Fis_Bum\obj\Debug\Fis_Bum.csproj.CoreCompileInputs.cache
+C:\Users\HFGF\Source\Repos\Fis-Bum\Fis_Bum\obj\Debug\Fis_Bum.exe
+C:\Users\HFGF\Source\Repos\Fis-Bum\Fis_Bum\obj\Debug\Fis_Bum.pdb
